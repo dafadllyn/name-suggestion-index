@@ -887,13 +887,13 @@
       }
     },
     {
-      "displayName": "SportXX",
+      "displayName": "SportX",
       "id": "sportxx-89a72b",
       "locationSet": {"include": ["ch"]},
       "tags": {
-        "brand": "SportXX",
+        "brand": "SportX",
         "brand:wikidata": "Q19309319",
-        "name": "SportXX",
+        "name": "SportX",
         "shop": "sports"
       }
     },
